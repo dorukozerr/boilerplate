@@ -1,5 +1,5 @@
 {
-  "name": "frontend",
+  "name": "parcel-react-ts-boilerplate",
   "version": "1.0.0",
   "source": "src/index.html",
   "scripts": {
